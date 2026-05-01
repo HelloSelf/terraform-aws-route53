@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [6.5.0](https://github.com/terraform-aws-modules/terraform-aws-route53/compare/v6.4.0...v6.5.0) (2026-05-01)
+
+### Features
+
+* Add configurable DNSSEC key signing key name ([#138](https://github.com/terraform-aws-modules/terraform-aws-route53/issues/138)) ([fbe9e66](https://github.com/terraform-aws-modules/terraform-aws-route53/commit/fbe9e6636a5af8d0e9c3323176dba588776422d0))
+
 ## [6.4.0](https://github.com/terraform-aws-modules/terraform-aws-route53/compare/v6.3.0...v6.4.0) (2026-01-12)
 
 ### Features
